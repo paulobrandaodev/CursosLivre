@@ -1,0 +1,10 @@
+C:\Users\39554884893\projetos\CursosLivre\bin\Debug\netcoreapp2.0\CursosLivre.deps.json
+C:\Users\39554884893\projetos\CursosLivre\bin\Debug\netcoreapp2.0\CursosLivre.runtimeconfig.json
+C:\Users\39554884893\projetos\CursosLivre\bin\Debug\netcoreapp2.0\CursosLivre.runtimeconfig.dev.json
+C:\Users\39554884893\projetos\CursosLivre\bin\Debug\netcoreapp2.0\CursosLivre.dll
+C:\Users\39554884893\projetos\CursosLivre\bin\Debug\netcoreapp2.0\CursosLivre.pdb
+C:\Users\39554884893\projetos\CursosLivre\obj\Debug\netcoreapp2.0\CursosLivre.csproj.CoreCompileInputs.cache
+C:\Users\39554884893\projetos\CursosLivre\obj\Debug\netcoreapp2.0\CursosLivre.AssemblyInfoInputs.cache
+C:\Users\39554884893\projetos\CursosLivre\obj\Debug\netcoreapp2.0\CursosLivre.AssemblyInfo.cs
+C:\Users\39554884893\projetos\CursosLivre\obj\Debug\netcoreapp2.0\CursosLivre.dll
+C:\Users\39554884893\projetos\CursosLivre\obj\Debug\netcoreapp2.0\CursosLivre.pdb
